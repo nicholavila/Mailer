@@ -19,11 +19,11 @@ npx prisma generate
 
 #### Tables in DynamoDB:
 
-`mailmanjs-users`
+`mailer-users`
 
 Partition key : email (String)
 
-`mailmanjs-segments`
+`mailer-segments`
 
 Partition key : userEmail (String)
 

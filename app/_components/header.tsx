@@ -22,7 +22,7 @@ export const Header = () => {
         <div className="flex">
           <Link href="/">
             <p className="text-4xl font-semibold text-black drop-shadow-md pb-4">
-              MailManJS
+              Mailer
             </p>
           </Link>
         </div>

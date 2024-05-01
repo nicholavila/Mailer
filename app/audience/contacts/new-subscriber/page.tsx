@@ -432,7 +432,7 @@ const NewSubscriber = () => {
                     </FormLabel>
                     <FormDescription className="leading-4">
                       This person will not receive a confirmation email from
-                      MailManJS. Since you're adding this recipient manually,
+                      Mailer. Since you're adding this recipient manually,
                       they won't have an opt-in IP address or date in your
                       records, so be extra sure you have permission first.
                     </FormDescription>
