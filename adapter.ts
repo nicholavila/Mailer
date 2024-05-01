@@ -16,7 +16,7 @@ export default {
     return null;
   },
   async getUserByEmail(email: string): Promise<AdapterUser | null> {
-    // andrei.devcasian@gmail.com
+    
     return null;
   },
   async createUser(user: AdapterUser): Promise<AdapterUser> {
@@ -27,7 +27,7 @@ export default {
     // {
     //   id: '2e79e340-fb52-4e65-a535-a656734b5b3f',
     //   name: 'Andrei',
-    //   email: 'andrei.devcasian@gmail.com',
+    //   email: '',
     //   image: 'https://avatars.githubusercontent.com/u/126603430?v=4',
     //   emailVerified: null
     // }

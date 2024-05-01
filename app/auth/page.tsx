@@ -17,7 +17,7 @@ export default function Home() {
       >
         🔐 Auth
       </h1>
-      <p className="text-black text-lg">Authentication service for Kre8tive</p>
+      <p className="text-black text-lg">Authentication service for Creative</p>
     </main>
   );
 }
